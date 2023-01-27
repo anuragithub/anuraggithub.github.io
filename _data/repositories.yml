@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - anuragithub
+  - MaverickDS
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - anuragithub/YetAnotherAnnotated_MLResearchPapers
+  - anuragithub/Mood-Inspector
+  - anuragithub/Dimensionality-Reduction-and-Visualization
+  - anuragithub/song-lyrics-generator
+  - MavericksDS/pycorr
