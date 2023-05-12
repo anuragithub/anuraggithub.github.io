@@ -3,8 +3,8 @@ github_users:
   - MaverickDS
 
 github_repos:
+  - anuragithub/vl_models_simplified
   - anuragithub/YetAnotherAnnotated_MLResearchPapers
   - anuragithub/Mood-Inspector
-  - anuragithub/Dimensionality-Reduction-and-Visualization
   - anuragithub/song-lyrics-generator
   - MavericksDS/pycorr
